@@ -1,5 +1,6 @@
 # Python: Algorithms & Datastructures
 
-1. Floating Point implementation using only Integers and binary (TO-DO)
-2. Stack and QUeue implmeneted with linked list
-3. 
+1. Binary Search Tree (BST) implementation
+2. TODO: Floating Point implementation using only Integers and binary
+3. Stack and Queue implementation with linked list
+4. ...
